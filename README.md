@@ -4,7 +4,7 @@
 ## Hello there 👋
 I'm Italo Menezes. I'm a full-stack developer, mainly acting with React ecosystem :computer:
 
-- :rocket:   Currently working at [**Cheesecake Labs**](https://github.com/CheesecakeLabs)
+- :rocket:   Currently working at **Maxana**
 - :heart_eyes:   React Native and Monorepo
 - :computer:   React Native, ReactJS, Node, Typescript
 - :speech_balloon:   Ask me about: programming, tech, games, movies, TV series
